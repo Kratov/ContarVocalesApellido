@@ -9,6 +9,7 @@ constexpr int MAX_APELLIDO_1 = 100;
 constexpr int MAX_APELLIDO_2 = 100;
 constexpr int MAX_BUFFER = MAX_APELLIDO_1 + MAX_APELLIDO_2;
 
+//Prototipos
 int contarVocales(const char * pBuffer, const int max);
 
 int main() {
